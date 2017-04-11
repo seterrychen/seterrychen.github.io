@@ -14,13 +14,11 @@ date: 2014-10-04
 # 安裝Vundle
 
 1. clone
-
 ```
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 2. 設定`~/.vimrc`
-
 ```
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -36,7 +34,6 @@ filetype plugin indent on    " required
 ```
 
 3. install
-
 ```
 $ vim +PluginInstall +qall
 ```
