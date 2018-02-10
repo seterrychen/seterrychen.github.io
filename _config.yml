@@ -71,3 +71,5 @@ deploy:
   type: git
   repo: https://github.com/seterrychen/seterrychen.github.io.git
   branch: master
+  name: Terry Chen
+  email: seterrychen@gmail.com
