@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 新番查詢方式整理
-date: 2019-09-01
+date: 2019-09-01 15:45:55
 tags:
  - anime
 ---
+
+以下就以自己的經驗跟大家做簡短分享，可以透過哪些網站來知道當季的新番資料
 
 ## [アニメ新番組 一覧](http://www.kansou.me/)(日文)
 
@@ -12,6 +14,14 @@ tags:
 
 ![](https://i.imgur.com/DGKtXgn.png)
 ![](https://i.imgur.com/evY3N1K.png)
+
+
+## [うずらインフォ トップページ](http://uzurainfo.han-be.com/index.html)(日文)
+
+同樣是一覽表，但加上了縮圖，常被分享在社群網站上。
+
+![](https://i.imgur.com/zGpiT1X.jpg)
+![](https://i.imgur.com/OWF6pPQ.jpg)
 
 
 ## [編集部イチオシ！番組セレクション | ザテレビジョン](https://thetv.jp/program/)(日文)
