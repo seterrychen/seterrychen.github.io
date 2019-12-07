@@ -27,7 +27,8 @@ tags:
   * 標準：（每月 330 新台幣）可同時在 2 個螢幕上觀賞高畫質 (**HD**) 影片
   * 高級：（每月 390 新台幣）可同時在 4 個螢幕上觀賞高畫質和超高畫質 (**Ultra HD**) 影片。
 
-## [木棉花TW Youtube](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)
+## Youtube頻道
+### [木棉花TW Youtube](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)
 
 是台灣正版動畫代理公司，從2018開始努力經營社群，在Youtube上傳的影片皆為正版授權
 
@@ -37,6 +38,8 @@ tags:
 * IG：https://www.instagram.com/museacg/?hl=zh-tw
 
 
+### 日本 [BANDAI SPIRITS / バンダイスピリッツ](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A) 頻道
 
+目前看起來上架了`魔神英雄伝ワタル`(中文字幕)和`機甲艦隊ダイラガーXV`(無中文字幕)兩部，皆是免費的
 
 
