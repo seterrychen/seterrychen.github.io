@@ -8,6 +8,7 @@ tags:
 
 我自己最常使用的收看管道是動畫瘋和Netflix，他們的內容對我來說可以互補，像是動畫瘋每季都會上架不少當季新番，而Netflix會有些是Netflix獨佔的作品如：**彼之初**，或是Netflix與bilibili才有的作品，如：**Fate/EXTRA Last Encore** 和 **紫羅蘭永恆花園**
 
+
 ## 線上收看
 
 只要有網路和設備(手機，電腦，平版，智慧型電視等等)即可以收看的方式
@@ -24,21 +25,19 @@ tags:
     * 180天：594元
     * 360天：1089元
 
-## [Netflix](https://www.netflix.com/tw/)
+### [Netflix](https://www.netflix.com/tw/)
 * **付費**，[收費方式](https://www.netflix.com/signup/planform)
   * 基本：（每月 270 新台幣）可在 1 個螢幕上觀賞標準畫質 (**SD**) 影片。
   * 標準：（每月 330 新台幣）可同時在 2 個螢幕上觀賞高畫質 (**HD**) 影片
   * 高級：（每月 390 新台幣）可同時在 4 個螢幕上觀賞高畫質和超高畫質 (**Ultra HD**) 影片。
 
-
-## [HamiVideo - HiNet](https://hamivideo.hinet.net/hamivideo/%E5%BD%B1%E5%8A%87%E9%A4%A8/%E5%8B%95%E6%BC%AB/%E6%8E%A8%E8%96%A6.do)
+### [HamiVideo - HiNet](https://hamivideo.hinet.net/hamivideo/%E5%BD%B1%E5%8A%87%E9%A4%A8/%E5%8B%95%E6%BC%AB/%E6%8E%A8%E8%96%A6.do)
 * **付費**，[收費方式](https://hamivideo.hinet.net/hamivideo/subscribe.do?relativeProductId=23126,847,4973,4974)
     * 包月制：149元 (動畫在Hinet歸類於影劇館)
     * 天數：
         * 35天/199元
         * 75天/398元
 
-## Youtube頻道
 ### [木棉花TW Youtube](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)
 
 是台灣正版動畫代理公司，從2018開始努力經營社群，在Youtube上傳的影片皆為正版授權
@@ -48,7 +47,6 @@ tags:
 * FB：https://www.facebook.com/emuse.com.tw/
 * IG：https://www.instagram.com/museacg/?hl=zh-tw
 
-
 ### 日本 [BANDAI SPIRITS / バンダイスピリッツ](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A) 頻道
 
 * **免費**
@@ -56,6 +54,8 @@ tags:
 * 內容：目前看起來上架了二部
     * [魔神英雄伝ワタル(CC:中文字幕)](https://www.youtube.com/watch?v=pbziz8CTOns&list=PLZxqqBY932ILUztJ6I5qMqOhkGbkxB55I&index=2)
     * [機甲艦隊ダイラガーXV(無中文字幕)](https://www.youtube.com/watch?v=Y5VLAlbLVlM&list=PLZxqqBY932ILo6JYeq6fress79g747160)
+
+
 ## 其他
 
 需申裝特別的設備才能觀看的方式，我把他歸到這類
